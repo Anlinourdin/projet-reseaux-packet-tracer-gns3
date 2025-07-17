@@ -28,7 +28,7 @@ IV.	Contenu du dépôt
 - `Topologie_PacketTracer.pkt` : Le fichier de la topologie sur Cisco Packet Tracer
 - `Topologie_GNS3.gns3project` : Le projet importable dans GNS3 (avec les fichiers de configuration)
 - `README.md` : Ce fichier de présentation
-V.	Pourquoi ce projet est important pour moi
+V.	Pourquoi ce projet est important pour moi ?
 N’ayant pas encore eu d’opportunité de stage ou d’expérience professionnelle, ce projet représente pour moi :
 - Une preuve de motivation à apprendre concrètement
 - Un engagement personnel dans ma formation continue
